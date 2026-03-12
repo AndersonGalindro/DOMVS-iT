@@ -221,8 +221,6 @@ Esta documentação tem como finalidade:
 
 # Diagrama no Figma
 
-O fluxo completo também está disponível no Figma.
-
-Clique para abrir o board:
+No Figma possui um breve esboço da linha de pensamento que tive.
 
 [Visualizar no Figma](https://www.figma.com/board/Yp2tHEiu2sGynZSZ90qoI9/Sem-t%C3%ADtulo?node-id=0-1&t=YqZqsrqs3NWBpf5l-1)
